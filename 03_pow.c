@@ -4,10 +4,10 @@
 int main (void)
 {
 int s, w;
-float k;
+int  k;
 scanf ("%d%d", &s, &w);
 k = pow ((double) s, (double) w);
-printf ("%f" , k);
+printf ("%d\n" , k);
 return 0;
 }
 
