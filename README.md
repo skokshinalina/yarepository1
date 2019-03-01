@@ -26,5 +26,4 @@
 | ------------- |:------------------------------------------------------------------:| 
 | Статья        |[](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
 ```
-> Written with [StackEdit](https://stackedit.io/).
->
+
