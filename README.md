@@ -21,8 +21,10 @@
 Было введено 5 чисел. В результате программа вывела 172.
 ## Таблица
 ```
-| Ресурс        | Ссылка                                                             | 
-| ------------- |:------------------------------------------------------------------:| 
-| Статья        |(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
 ```
-(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Ресурс | Ссылка | 
+--- | --- | ---
+Статья | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  | 
+
+```
+```
