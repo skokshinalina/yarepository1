@@ -9,15 +9,15 @@
 ## Ход работы
 Для каждого задания был создан файл, где был написан код. Каждый файл с кодом был скомпилирован и запущен для проверки с помощью следующих команд:
 ```
-gcc 01_olinka.c -o 01_olinka
-./01_olinka
-gcc 02_malinka.c -o 02_malinka
-./02_malinka
+* gcc 01_olinka.c -o 01_olinka
+* ./01_olinka
+* gcc 02_malinka.c -o 02_malinka
+* ./02_malinka
 ```
 Далее файлы были отправлены на репозиторий pr3 с помощью следующих команд:
-1) git add
-2) git commit -m
-3) git push -u origin pr3
+* git add
+* git commit -m
+* git push -u origin pr3
 ## Результаты
 Ниже представлены скриншоты работы программ
 
