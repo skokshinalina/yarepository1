@@ -23,7 +23,7 @@
 ## Результат 
 Ниже представлен скриншот работы программы 
 
-![alt text](https://pp.userapi.com/c848532/v848532705/177ee8/dlN8IkoVtrk.jpg) 
+![alt text](https://pp.userapi.com/c848532/v848532468/1799a5/xRuY-sIZSE8.jpg) 
 
 ## Использованые ресурсы 
 
